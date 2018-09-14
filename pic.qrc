@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>beat.jpg</file>
+        <file>bg.jpg</file>
+        <file>bg1.jpg</file>
+        <file>chui_up.png</file>
+        <file>chui.png</file>
+        <file>pause.png</file>
+    </qresource>
+    <qresource prefix="/pic">
+        <file>chui.png</file>
+        <file alias="cc">gril.jpg</file>
+    </qresource>
+</RCC>
